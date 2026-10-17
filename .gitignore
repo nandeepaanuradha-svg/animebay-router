@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+data/
+*.session
+*.session-*
+*.sqlite3*
+*.db
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+logs/
+.pm2/
+node_modules/
+*.zip

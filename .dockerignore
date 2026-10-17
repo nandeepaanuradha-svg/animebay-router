@@ -1,0 +1,16 @@
+.env
+.env.*
+data
+*.session*
+*.sqlite3*
+*.db
+.venv
+.git
+__pycache__
+**/__pycache__
+*.pyc
+*.zip
+tests
+node_modules
+.pm2
+logs
